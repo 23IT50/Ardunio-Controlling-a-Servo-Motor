@@ -3,8 +3,8 @@ Learn to control a servo motor using PWM (Pulse Width Modulation)
 This project demonstrates how to control a servo motor using an Arduino microcontroller. The code moves the servo to various angles, allowing you to see how to interact with servo motors using PWM (Pulse Width Modulation).
 
 #Components Used
-Arduino board (e.g., Uno)
-Servo motor
+Arduino board (e.g., Uno),
+Servo motor,
 Jumper wires
 
 #Circuit diagram connections
